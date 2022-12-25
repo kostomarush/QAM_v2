@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Tract.jpg</file>
+    <file>323ff6530dbb65f4940f769ffe6493c2.png</file>
+    <file>2.jpg</file>
+    <file>323ff6530dbb65f4940f769ffe6493c2.jpg</file>
+  </qresource>
+</RCC>
